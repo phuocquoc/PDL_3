@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/DAL/DangKy.java=UTF-8
+encoding//src/DAL/DoAn.java=UTF-8
+encoding//src/DAL/GiaoDienDonhang.java=UTF-8
+encoding//src/DAL/GiaoDienNguoiBan.java=UTF-8
+encoding//src/DAL/GiaoDienNguoiDung.java=UTF-8
+encoding//src/DAL/GiaoDienQuanLyDonHang.java=UTF-8
+encoding//src/DAL/GiaoDienQuanLyNguoiDUng.java=UTF-8
+encoding//src/DAL/GiaoDienQuanLySanPham.java=UTF-8
+encoding//src/DAL/HoaDon.java=UTF-8
+encoding//src/DAL/InformationUser.java=UTF-8
+encoding//src/DAL/InformationUserFix.java=UTF-8
+encoding/<project>=UTF-8
